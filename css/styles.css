@@ -38,6 +38,10 @@ h2{
     font-family:"monstera-light";
     font-size:1.2rem;
   }
+  .dog-profile{
+    border-radius: 100%;
+    margin-right:30px;
+  }
   /* download button */
   .downloadbutton{
     margin: 5%  3% 5% 0;
